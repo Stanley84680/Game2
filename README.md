@@ -1,8 +1,8 @@
-# Game stan #
+# Radius Raid #
 
 Radius Raid is a space themed shoot 'em up where you must blast away unrelenting enemies before they destroy you. The game features 13 enemy types, 5 powerups, parallax backgrounds, retro sound effects, and locally stored stats.
 
-This is an an entry for [js13kGames](http://js13kgames.com) 2023. The theme this year was bad luck, but I didn't work it into my game at all. There are certainly luck and chance factors that affect the gameplay, but those weren't built in for the competition. Check out [Radius Raid](http://js13kgames.com/entries/radius-raid) and all of the other entries at [js13kGames](http://js13kgames.com/entries)!
+This is an an entry for [js13kGames](http://js13kgames.com) 2013. The theme this year was bad luck, but I didn't work it into my game at all. There are certainly luck and chance factors that affect the gameplay, but those weren't built in for the competition. Check out [Radius Raid](http://js13kgames.com/entries/radius-raid) and all of the other entries at [js13kGames](http://js13kgames.com/entries)!
 
 **Final Size:** 13,278 bytes
 
@@ -19,9 +19,9 @@ I hate having to say this, but from my testing, if you are not running the game 
 I so badly wanted to use [@rezoner](https://twitter.com/rezoner)'s JavaScript chiptune composer, [CHIRP](http://chirp.rezoner.net/), but I just couldn't fit it in the limit. It really bummed me out. I composed a few ideas and really loved the feel of the music with the game. So upsetting. You should definitely check out the tool, it is amazing and will be incredibly useful for game music in the future!
 
 # Credits #
-**Created By:** [@stanley](https://www.facebook.com/profile.php?id=100089223278765)  
-**Inspiration and Support:** [@rezoner](https://www.facebook.com/profile.php?id=100089223278765), [@stanley]  
-**Audio Processing:** [JSFXR](https://www.facebook.com/profile.php?id=100089223278765) by [Stanley](https://www.facebook.com/profile.php?id=100089223278765)  
+**Created By:** [@jackrugile](https://twitter.com/jackrugile)  
+**Inspiration and Support:** [@rezoner](https://twitter.com/rezoner), [@loktar00](https://twitter.com/loktar00), [@end3r](https://twitter.com/end3r), [@austinhallock](https://twitter.com/austinhallock), [@chandlerprall](https://twitter.com/chandlerprall)  
+**Audio Processing:** [JSFXR](https://github.com/mneubrand/jsfxr) by [@markusneubrand](https://twitter.com/markusneubrand)  
 **Game Inspiration and Ideas:** [Asteroids](http://www.atari.com/arcade/asteroids), [Cell Warfare](http://armorgames.com/play/3204/cell-warfare), [Space Pips](http://armorgames.com/play/3097/space-pips), and many more  
 **HTML5 Canvas Reference:** [HTML5 Canvas Cheat Sheet](https://simon.html5.org/dump/html5-canvas-cheat-sheet.html)  
 **Game Math Reference:** Billy Lamberta - [Foundation HTML5 Animation with JavaScript](http://lamberta.github.io/html5-animation/)
